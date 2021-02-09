@@ -1,0 +1,5 @@
+class H {
+  public static void H(String[] args) {
+    System.out.println("\nHello Word!\n");
+  }
+}
